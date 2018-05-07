@@ -120,6 +120,10 @@ Prefab:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 11400000, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 22400004, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
       propertyPath: m_RootOrder
       value: 2
@@ -195,6 +199,49 @@ Prefab:
     - target: {fileID: 22400004, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
       propertyPath: m_Pivot.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400006, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_Text
+      value: HyperPaddle
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_Text
+      value: 'Play
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400006, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 95d000aa99b9b4ce0bb34c60be4b7d54,
+        type: 3}
+    - target: {fileID: 11400002, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 95d000aa99b9b4ce0bb34c60be4b7d54,
+        type: 3}
+    - target: {fileID: 11400014, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_Text
+      value: 'High Scores
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400014, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 95d000aa99b9b4ce0bb34c60be4b7d54,
+        type: 3}
+    - target: {fileID: 11400000, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400000, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}

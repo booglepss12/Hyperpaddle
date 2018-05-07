@@ -59,8 +59,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\SceneManager.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
+    <Compile Include="Assets\Scripts\SceneManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/johnrooney/Desktop/Hyperpaddle/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
