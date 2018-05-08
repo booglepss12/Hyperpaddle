@@ -221,6 +221,24 @@ Prefab:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_Text
+      value: PLAY AGAIN?
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400014, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_Text
+      value: RETURN TO MAIN MENU
+      objectReference: {fileID: 0}
+    - target: {fileID: 11400002, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 95d000aa99b9b4ce0bb34c60be4b7d54,
+        type: 3}
+    - target: {fileID: 11400014, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
+      propertyPath: m_FontData.m_Font
+      value: 
+      objectReference: {fileID: 12800000, guid: 95d000aa99b9b4ce0bb34c60be4b7d54,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9130c92abce774c8c8e639c10ae52170, type: 2}
   m_IsPrefabParent: 0
